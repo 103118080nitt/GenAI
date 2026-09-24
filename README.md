@@ -8,4 +8,5 @@ this is dedicated to GenAI project
 - Ollama
 - Higgingface
 
+- ollama model https://ollama.com/blog/embedding-models
 
