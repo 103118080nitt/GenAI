@@ -12,3 +12,5 @@ langchain-text-splitters
 langchain-openai
 langchain-ollama
 chromadb
+sentence_transformers
+langchain_huggingface
