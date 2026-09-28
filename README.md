@@ -10,3 +10,5 @@ this is dedicated to GenAI project
 
 - ollama model https://ollama.com/blog/embedding-models
 
+-- vector DB FAISS, CROMADB,ASTRADB
+--
